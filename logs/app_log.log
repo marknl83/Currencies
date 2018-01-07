@@ -1,0 +1,219 @@
+[INFO ] 2018-01-07 12:06:49.947 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 8736 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 12:06:49.952 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 12:06:54.688 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 4.983 seconds (JVM running for 5.9)
+[INFO ] 2018-01-07 12:06:54.813 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:17:34.807 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 3692 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 12:17:34.813 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 12:17:39.493 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 4.913 seconds (JVM running for 5.838)
+[INFO ] 2018-01-07 12:17:39.655 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:17:39.949 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:17:39.963 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:17:39.973 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:17:59.298 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 9592 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 12:17:59.303 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 12:18:04.263 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.193 seconds (JVM running for 6.238)
+[INFO ] 2018-01-07 12:18:04.404 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 12:25:22.576 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 12524 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 12:25:22.580 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 12:25:27.373 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.037 seconds (JVM running for 6.059)
+[INFO ] 2018-01-07 12:25:27.550 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:25:27.908 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 12:25:27.959 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:25:27.975 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:25:27.985 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:28:23.155 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 3884 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 12:28:23.160 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 12:28:28.155 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.25 seconds (JVM running for 6.174)
+[INFO ] 2018-01-07 12:28:28.287 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:28:28.545 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 12:28:28.573 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:28:28.584 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:28:28.596 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:31:53.442 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 6436 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 12:31:53.447 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 12:31:58.175 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 4.995 seconds (JVM running for 6.073)
+[INFO ] 2018-01-07 12:31:58.412 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:31:58.776 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 12:31:58.824 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:31:58.843 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:31:58.854 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:35:38.742 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 13188 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 12:35:38.747 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 12:35:43.515 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.012 seconds (JVM running for 6.016)
+[INFO ] 2018-01-07 12:35:43.730 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:35:44.127 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 12:35:44.165 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:35:44.177 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:35:44.187 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:36:43.479 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 6688 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 12:36:43.484 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 12:36:48.161 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 4.933 seconds (JVM running for 5.958)
+[INFO ] 2018-01-07 12:36:48.280 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 12:59:52.896 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 9860 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 12:59:52.902 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 12:59:57.980 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.334 seconds (JVM running for 6.303)
+[INFO ] 2018-01-07 12:59:58.131 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:59:58.356 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 12:59:58.387 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:59:58.396 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 12:59:58.409 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:01:11.698 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 6196 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:01:11.703 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:01:16.906 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.455 seconds (JVM running for 6.546)
+[INFO ] 2018-01-07 13:01:17.062 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:01:28.025 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 11392 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:01:28.029 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:01:32.792 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 4.998 seconds (JVM running for 6.102)
+[INFO ] 2018-01-07 13:07:30.782 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 2272 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:07:30.787 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:07:35.845 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.307 seconds (JVM running for 6.236)
+[INFO ] 2018-01-07 13:07:35.984 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:07:36.211 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 13:07:36.279 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@2c56eba5
+[INFO ] 2018-01-07 13:07:36.310 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:07:36.323 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:10:58.108 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 12852 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:10:58.112 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:11:02.948 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.066 seconds (JVM running for 6.013)
+[INFO ] 2018-01-07 13:11:03.118 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:11:03.372 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 13:11:03.450 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@290c266c
+[INFO ] 2018-01-07 13:11:03.484 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:11:03.497 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:13:07.132 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 9716 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:13:07.137 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:13:12.098 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.2 seconds (JVM running for 6.101)
+[INFO ] 2018-01-07 13:13:12.214 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 13:13:21.597 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 8476 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:13:21.601 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:13:26.438 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.071 seconds (JVM running for 6.044)
+[INFO ] 2018-01-07 13:13:26.606 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:13:26.837 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 13:13:26.894 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@288409f0
+[INFO ] 2018-01-07 13:13:26.924 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:13:26.942 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:13:46.588 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 10904 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:13:46.592 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:13:51.628 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.379 seconds (JVM running for 6.277)
+[INFO ] 2018-01-07 13:13:53.197 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@652b3733
+[INFO ] 2018-01-07 13:14:40.107 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 8496 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:14:40.112 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:14:45.072 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.192 seconds (JVM running for 6.089)
+[INFO ] 2018-01-07 13:14:45.273 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@7ab1ad9
+[INFO ] 2018-01-07 13:16:38.455 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 8464 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:16:38.459 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:16:43.478 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.261 seconds (JVM running for 6.209)
+[INFO ] 2018-01-07 13:16:43.763 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 13:16:43.945 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@31b6fb14
+[INFO ] 2018-01-07 13:16:43.981 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:16:44.006 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:17:55.271 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 3884 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:17:55.275 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:17:59.885 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 4.927 seconds (JVM running for 5.86)
+[INFO ] 2018-01-07 13:18:00.070 [main] CurrenciesController - Info methode put aangeroepen, currency wordt: com.api.currencies.start.Currency@652b3733
+[INFO ] 2018-01-07 13:21:24.344 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 8080 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:21:24.348 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:21:29.333 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.211 seconds (JVM running for 6.147)
+[INFO ] 2018-01-07 13:21:29.572 [main] CurrenciesController - Info methode put aangeroepen, currency wordt: com.api.currencies.start.Currency@6141647f
+[INFO ] 2018-01-07 13:21:29.635 [main] CurrenciesController - Info methode get aangeroepen met ticker: ETH
+[INFO ] 2018-01-07 13:24:39.531 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 9708 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:24:39.535 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:24:44.356 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.069 seconds (JVM running for 6.006)
+[INFO ] 2018-01-07 13:24:44.647 [main] CurrenciesController - Info methode put aangeroepen, currency wordt: com.api.currencies.start.Currency@126a9a3d
+[INFO ] 2018-01-07 13:24:44.712 [main] CurrenciesController - Info methode get aangeroepen met ticker: ETH
+[INFO ] 2018-01-07 13:24:44.895 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 13:24:44.908 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@50f3ba6a
+[INFO ] 2018-01-07 13:24:44.931 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:24:44.955 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@e4b54d3
+[INFO ] 2018-01-07 13:24:44.957 [main] CurrenciesController - Info methode get aangeroepen met ticker: test
+[INFO ] 2018-01-07 13:24:44.960 [main] CurrenciesController - Info methode delete aangeroepen met ticker: test
+[INFO ] 2018-01-07 13:28:13.647 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 12764 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:28:13.651 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:28:18.545 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.142 seconds (JVM running for 6.042)
+[INFO ] 2018-01-07 13:28:18.704 [main] CurrenciesController - Info methode put aangeroepen, currency wordt: com.api.currencies.start.Currency@63e70bf9
+[INFO ] 2018-01-07 13:28:18.765 [main] CurrenciesController - Info methode get aangeroepen met ticker: ETH
+[INFO ] 2018-01-07 13:28:18.911 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 13:28:18.946 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@8549c5f
+[INFO ] 2018-01-07 13:28:18.956 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:28:18.981 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@75805562
+[INFO ] 2018-01-07 13:28:18.984 [main] CurrenciesController - Info methode get aangeroepen met ticker: test
+[INFO ] 2018-01-07 13:29:34.959 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 1452 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:29:34.964 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:29:39.615 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 4.88 seconds (JVM running for 5.909)
+[INFO ] 2018-01-07 13:29:39.911 [main] CurrenciesController - Info methode put aangeroepen, currency wordt: com.api.currencies.start.Currency@126a9a3d
+[INFO ] 2018-01-07 13:29:39.984 [main] CurrenciesController - Info methode get aangeroepen met ticker: putTest
+[INFO ] 2018-01-07 13:29:40.245 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 13:29:40.274 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@5315266
+[INFO ] 2018-01-07 13:29:40.291 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:29:40.322 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@2f73f0c7
+[INFO ] 2018-01-07 13:29:40.325 [main] CurrenciesController - Info methode get aangeroepen met ticker: test
+[INFO ] 2018-01-07 13:29:59.943 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 8616 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:29:59.948 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:30:04.810 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.117 seconds (JVM running for 6.028)
+[INFO ] 2018-01-07 13:30:04.991 [main] CurrenciesController - Info methode put aangeroepen, currency wordt: com.api.currencies.start.Currency@671da0f9
+[INFO ] 2018-01-07 13:30:05.061 [main] CurrenciesController - Info methode get aangeroepen met ticker: putTest
+[INFO ] 2018-01-07 13:30:05.221 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 13:30:05.235 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@2ceb68a1
+[INFO ] 2018-01-07 13:30:05.246 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:30:05.274 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@4152bd0f
+[INFO ] 2018-01-07 13:30:05.276 [main] CurrenciesController - Info methode get aangeroepen met ticker: test
+[INFO ] 2018-01-07 13:30:51.044 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 1152 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:30:51.048 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:30:55.924 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.133 seconds (JVM running for 6.018)
+[INFO ] 2018-01-07 13:30:56.100 [main] CurrenciesController - Info methode put aangeroepen, currency wordt: com.api.currencies.start.Currency@7db47323
+[INFO ] 2018-01-07 13:30:56.152 [main] CurrenciesController - Info methode get aangeroepen met ticker: putTest
+[INFO ] 2018-01-07 13:30:56.310 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 13:30:56.320 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@319aa9ee
+[INFO ] 2018-01-07 13:30:56.329 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:30:56.350 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@5ad0c70a
+[INFO ] 2018-01-07 13:30:56.352 [main] CurrenciesController - Info methode get aangeroepen met ticker: test
+[INFO ] 2018-01-07 13:31:14.730 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 11028 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:31:14.734 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:31:19.670 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.167 seconds (JVM running for 6.076)
+[INFO ] 2018-01-07 13:31:19.855 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@686b1e2d
+[INFO ] 2018-01-07 13:31:19.922 [main] CurrenciesController - Info methode get aangeroepen met ticker: deleteTest
+[INFO ] 2018-01-07 13:31:33.065 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 8956 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:31:33.070 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:31:37.767 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.039 seconds (JVM running for 5.957)
+[INFO ] 2018-01-07 13:31:37.972 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@6c2883b1
+[INFO ] 2018-01-07 13:31:38.029 [main] CurrenciesController - Info methode get aangeroepen met ticker: deleteTest
+[INFO ] 2018-01-07 13:31:38.167 [main] CurrenciesController - Info methode delete aangeroepen met ticker: deleteTest
+[INFO ] 2018-01-07 13:31:48.860 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 6488 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:31:48.865 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:31:53.875 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.258 seconds (JVM running for 6.158)
+[INFO ] 2018-01-07 13:31:54.081 [main] CurrenciesController - Info methode put aangeroepen, currency wordt: com.api.currencies.start.Currency@4315fe1b
+[INFO ] 2018-01-07 13:31:54.168 [main] CurrenciesController - Info methode get aangeroepen met ticker: putTest
+[INFO ] 2018-01-07 13:31:54.341 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 13:31:54.352 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@18b04526
+[INFO ] 2018-01-07 13:31:54.363 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:31:54.384 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@70777a65
+[INFO ] 2018-01-07 13:31:54.387 [main] CurrenciesController - Info methode get aangeroepen met ticker: deleteTest
+[INFO ] 2018-01-07 13:31:54.390 [main] CurrenciesController - Info methode delete aangeroepen met ticker: deleteTest
+[INFO ] 2018-01-07 13:32:37.300 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 5492 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 13:32:37.305 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 13:32:42.255 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.178 seconds (JVM running for 6.094)
+[INFO ] 2018-01-07 13:32:42.462 [main] CurrenciesController - Info methode put aangeroepen, currency wordt: com.api.currencies.start.Currency@671da0f9
+[INFO ] 2018-01-07 13:32:42.530 [main] CurrenciesController - Info methode get aangeroepen met ticker: putTest
+[INFO ] 2018-01-07 13:32:42.691 [main] CurrenciesController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 13:32:42.702 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@2ceb68a1
+[INFO ] 2018-01-07 13:32:42.712 [main] CurrenciesController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 13:32:42.733 [main] CurrenciesController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@3220c28
+[INFO ] 2018-01-07 13:32:42.735 [main] CurrenciesController - Info methode get aangeroepen met ticker: deleteTest
+[INFO ] 2018-01-07 13:32:42.738 [main] CurrenciesController - Info methode delete aangeroepen met ticker: deleteTest
+[INFO ] 2018-01-07 14:11:35.306 [main] CurrenciesApplicationTests - Starting CurrenciesApplicationTests on DESKTOP-645KMI4 with PID 12708 (started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 14:11:35.310 [main] CurrenciesApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 14:11:40.666 [main] CurrenciesApplicationTests - Started CurrenciesApplicationTests in 5.601 seconds (JVM running for 6.706)
+[INFO ] 2018-01-07 14:11:40.907 [main] CurrencyController - Info methode put aangeroepen, currency wordt: com.api.currencies.start.Currency@4f3fec43
+[INFO ] 2018-01-07 14:11:40.975 [main] CurrencyController - Info methode get aangeroepen met ticker: putTest
+[INFO ] 2018-01-07 14:11:41.161 [main] CurrencyController - Info methode get aangeroepen met ticker: BTC
+[INFO ] 2018-01-07 14:11:41.172 [main] CurrencyController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@4e5d5ac1
+[INFO ] 2018-01-07 14:11:41.182 [main] CurrencyController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 14:11:41.202 [main] CurrencyController - Info methode post aangeroepen met currency: com.api.currencies.start.Currency@5b0e9e0c
+[INFO ] 2018-01-07 14:11:41.205 [main] CurrencyController - Info methode get aangeroepen met ticker: deleteTest
+[INFO ] 2018-01-07 14:11:41.208 [main] CurrencyController - Info methode delete aangeroepen met ticker: deleteTest
+[INFO ] 2018-01-07 14:13:04.950 [main] CurrencyApplication - Starting CurrencyApplication on DESKTOP-645KMI4 with PID 6396 (C:\Users\mark_\workspace\currencies\target\classes started by mark_ in C:\Users\mark_\workspace\currencies)
+[INFO ] 2018-01-07 14:13:05.029 [main] CurrencyApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-01-07 14:13:15.871 [main] CurrencyApplication - Started CurrencyApplication in 11.209 seconds (JVM running for 12.357)
+[INFO ] 2018-01-07 14:13:37.712 [http-nio-8080-exec-9] CurrencyController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 14:14:00.247 [http-nio-8080-exec-8] CurrencyController - Info methode get aangeroepen voor alle currencies
+[INFO ] 2018-01-07 14:14:24.972 [http-nio-8080-exec-10] CurrencyController - Info methode get aangeroepen voor alle currencies
