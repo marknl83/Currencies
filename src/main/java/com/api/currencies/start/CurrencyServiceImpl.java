@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 /**
  * In deze klasse is de service functionaliteit vormgegeven
  */
-@Service
+//@Service
 public class CurrencyServiceImpl implements CurrencyService {
     
     @Autowired 

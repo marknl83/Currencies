@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Primary;
 @Configuration
 public class CurrencyServiceConfiguration {
     
-    @Bean
-    @Primary
-    public CurrencyService CurrencyServiceImpl() {return new CurrencyServiceImpl();}    
+   @Bean
+   @Primary
+   public CurrencyService CurrencyServiceImpl() {return new CurrencyServiceImpl();}    
 }

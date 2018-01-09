@@ -7,7 +7,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 /* Klasse waarmee de applicatie gestart kan worden
  */
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages = "com.api.currencies")
 @ComponentScan("com.api.currencies")
 @EnableJpaRepositories("com.api.currencies")
 public class CurrencyApplication {

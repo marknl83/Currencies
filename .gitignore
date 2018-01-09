@@ -22,3 +22,5 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+logs/springboot_log.log
+logs/springboot_log.log
